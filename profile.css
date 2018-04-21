@@ -1,0 +1,26 @@
+.container-fluid{
+	background-color: #128c7e;
+	height: 15vh;
+	color: white;
+	}
+	.container{
+		background-color:#ece5dd;
+		width:100vw;
+	}
+/*.image{
+	
+	padding-left: 5rem;
+}	*/
+.row1 {
+    border: 3px solid #ece5dd;
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+    width:83vw;
+    }
+    .text-muted{
+    	text-align: center;
+    }
+    p{
+    	color: green;
+    }

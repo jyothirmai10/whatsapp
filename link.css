@@ -1,0 +1,36 @@
+.container-fluid{
+	background-color: #128c7e;
+	height: 10vh;
+	color: white;
+	}
+	.fa-stack{
+	float: right;
+
+
+	}
+
+.container{
+	background-color: #ece5dd;
+	width:100vw;
+}
+.container1 {
+    border: 3px solid #ece5dd;
+    background-color: #dcf8c6;
+    border-radius: 5px;
+    padding: 5px;
+    width:100vw;
+    }
+ .one .text-muted{
+ 	text-align: right;
+
+ }
+ .container2{
+ 	 border: 3px solid #dcf8c6;
+ 	 background-color:  #34b7f1;
+    border-radius: 5px;
+    padding: 5px;
+    width:100vw; 
+ }
+ .two .image{
+ 	float: right;
+ }
